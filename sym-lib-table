@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATMEGA")(type "KiCad")(uri "${KIPRJMOD}/ATMEGA.kicad_sym")(options "")(descr ""))
+  (lib (name "DS13375")(type "KiCad")(uri "${KIPRJMOD}/DS13375.kicad_sym")(options "")(descr ""))
+)
