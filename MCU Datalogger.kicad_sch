@@ -5176,7 +5176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ATMEGA:ATMEGA"
+		(property "Footprint" "FOOTPRINTS:ATMEGA"
 			(at 213.36 64.77 0)
 			(effects
 				(font
@@ -6018,7 +6018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DS13375:DS13375"
+		(property "Footprint" "FOOTPRINTS:DS13375+"
 			(at 62.23 68.58 0)
 			(effects
 				(font
