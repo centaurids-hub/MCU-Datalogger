@@ -972,7 +972,7 @@
 	)
 	(hierarchical_label "RX"
 		(shape input)
-		(at 161.29 95.25 0)
+		(at 166.37 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -994,7 +994,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 161.29 90.17 0)
+		(at 166.37 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1060,7 +1060,7 @@
 	)
 	(hierarchical_label "TX"
 		(shape output)
-		(at 161.29 97.79 0)
+		(at 166.37 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1170,7 +1170,7 @@
 	)
 	(hierarchical_label "Vcc"
 		(shape passive)
-		(at 161.29 92.71 0)
+		(at 166.37 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1211,6 +1211,22 @@
 			(justify left)
 		)
 		(uuid "fe031f58-cedc-4800-89a3-aba83fb1cc19")
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 119.38 76.2) (xy 184.15 76.2) (xy 184.15 146.05) (xy 119.38 146.05)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+				(color 0 0 255 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 66edfc60-e791-43ff-8b4e-d0a70675f02f)
+		)
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
@@ -1382,7 +1398,7 @@
 	)
 	(symbol
 		(lib_id "EG:Conn_01x04_Pin")
-		(at 156.21 92.71 0)
+		(at 161.29 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1390,7 +1406,7 @@
 		(dnp no)
 		(uuid "c277d618-a073-4310-9c8e-8ac3f573b36f")
 		(property "Reference" "J3"
-			(at 156.845 85.09 0)
+			(at 161.925 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1398,7 +1414,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 156.845 87.63 0)
+			(at 161.925 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1406,7 +1422,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 92.71 0)
+			(at 161.29 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1415,7 +1431,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 92.71 0)
+			(at 161.29 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1424,7 +1440,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 156.21 92.71 0)
+			(at 161.29 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1433,7 +1449,7 @@
 			)
 		)
 		(property "Purpose" "Serial UART"
-			(at 158.242 99.822 0)
+			(at 163.322 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
