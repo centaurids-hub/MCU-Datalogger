@@ -4297,6 +4297,7 @@
 		)
 		(property "Value" "24LC1025"
 			(at 80.518 135.89 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4304,7 +4305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 91.44 146.05 0)
 			(effects
 				(font
@@ -4881,7 +4882,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 55.88 146.05 0)
 			(effects
 				(font
