@@ -2,4 +2,8 @@
   (version 7)
   (lib (name "ATMEGA")(type "KiCad")(uri "${KIPRJMOD}/ATMEGA.pretty/ATMEGA.pretty")(options "")(descr ""))
   (lib (name "DS13375")(type "KiCad")(uri "${KIPRJMOD}/DS13375.pretty/DS13375.pretty")(options "")(descr ""))
+<<<<<<< HEAD
+=======
+  (lib (name "FOOTPRINTS")(type "KiCad")(uri "${KIPRJMOD}/FOOTPRINTS.pretty")(options "")(descr ""))
+>>>>>>> 2layer
 )
