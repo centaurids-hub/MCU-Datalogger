@@ -60,7 +60,7 @@
 			(svgprecision 4)
 			(plotframeref no)
 			(mode 1)
-			(useauxorigin no)
+			(useauxorigin yes)
 			(hpglpennumber 1)
 			(hpglpenspeed 20)
 			(hpglpendiameter 15.000000)
@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/Administrator/OneDrive/Documents/COMPUTER AIDED DRAFTING/MCU Datalogger")
 		)
 	)
 	(property "MCU Datalogger" "MCU Datalogger with memory and clock")
@@ -1135,7 +1135,7 @@
 			(effects
 				(font
 					(size 0.8 0.8)
-					(thickness 1)
+					(thickness 0.2)
 				)
 			)
 		)
@@ -1507,6 +1507,17 @@
 			(uuid "b3ccf38a-e485-4e77-bd86-527df0eafbec")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/Administrator/Downloads/DS1337S+.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -6629,7 +6640,7 @@
 			(effects
 				(font
 					(size 0.8 0.8)
-					(thickness 1)
+					(thickness 0.2)
 				)
 			)
 		)
@@ -7376,6 +7387,17 @@
 			(uuid "f1016cd3-b418-4421-b90e-ae9ca11ef3b2")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/Administrator/Downloads/ATMEGA328P-AU (1).STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Symbol:Symbol_GNU-Logo_SilkscreenTop"
 		(layer "B.Cu")
@@ -10664,6 +10686,282 @@
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "No"
+		(at 173.107143 83.445 0)
+		(layer "Dwgs.User")
+		(uuid "04250757-1c50-4b0b-a320-cb1d2a26efe3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 232.207138 67.617 0)
+		(layer "Dwgs.User")
+		(uuid "090f18f2-4ad3-4734-8db2-8f763b15595f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Copper Layer Count: "
+		(at 140.45 63.66 0)
+		(layer "Dwgs.User")
+		(uuid "139a0d37-b09e-4a74-83ee-a09b769804b1")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Plated Board Edge: "
+		(at 207.264281 79.488 0)
+		(layer "Dwgs.User")
+		(uuid "2d08e1d7-4bfd-4765-b3d1-15a987d3a441")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "No"
+		(at 232.207138 79.488 0)
+		(layer "Dwgs.User")
+		(uuid "2f241b08-3a86-4b41-932c-480ae9b1d21d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 207.264281 67.617 0)
+		(layer "Dwgs.User")
+		(uuid "35d6dfaf-c93a-43df-9d7c-21c8b8b8d994")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "BOARD CHARACTERISTICS"
+		(at 139.7 58.166 0)
+		(layer "Dwgs.User")
+		(uuid "3bc11a21-7cbe-416a-9ae5-82cf71d4c1af")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "No"
+		(at 173.107143 79.488 0)
+		(layer "Dwgs.User")
+		(uuid "46955ee9-66ff-408c-9493-b49697327e42")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0.3000 mm"
+		(at 232.207138 71.574 0)
+		(layer "Dwgs.User")
+		(uuid "51e0047c-1471-4246-ab6d-c345440020bb")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "2"
+		(at 173.107143 63.66 0)
+		(layer "Dwgs.User")
+		(uuid "54262cbe-ad26-4f8a-8ca1-ef42d908f77e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Board Thickness: "
+		(at 207.264281 63.66 0)
+		(layer "Dwgs.User")
+		(uuid "59b8a47c-9320-4393-be5d-329698dca1cd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Edge card connectors: "
+		(at 140.45 83.445 0)
+		(layer "Dwgs.User")
+		(uuid "754c2e22-9492-4834-8dd4-11fad86b6372")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "None"
+		(at 173.107143 75.531 0)
+		(layer "Dwgs.User")
+		(uuid "789409c4-51d7-4743-a1bd-c41408bf6137")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Castellated pads: "
+		(at 140.45 79.488 0)
+		(layer "Dwgs.User")
+		(uuid "7b4d498e-9f24-4d90-b49f-202c04d2c4a8")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Copper Finish: "
+		(at 140.45 75.531 0)
+		(layer "Dwgs.User")
+		(uuid "7bb9c8d5-a1e1-4f88-9586-7de84684a348")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Min hole diameter: "
+		(at 207.264281 71.574 0)
+		(layer "Dwgs.User")
+		(uuid "8671a808-06f3-4471-a87c-f5ee58155573")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Min track/spacing: "
+		(at 140.45 71.574 0)
+		(layer "Dwgs.User")
+		(uuid "917cfdb1-6b6f-4100-b365-7a0e0b020635")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0.0000 mm / 0.0000 mm"
+		(at 173.107143 71.574 0)
+		(layer "Dwgs.User")
+		(uuid "9c11ddb6-f1c0-4665-9373-e16371fe9afc")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Board overall dimensions: "
+		(at 140.45 67.617 0)
+		(layer "Dwgs.User")
+		(uuid "a55df721-745e-4d1e-9736-c8f7d07ba2fa")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "52.0650 mm x 34.2850 mm"
+		(at 173.107143 67.617 0)
+		(layer "Dwgs.User")
+		(uuid "b44bde49-66b8-4fb0-a9bd-4f7d494d961a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "No"
+		(at 232.207138 75.531 0)
+		(layer "Dwgs.User")
+		(uuid "b4613f25-5375-46ec-8403-1c1085d90824")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1.6000 mm"
+		(at 232.207138 63.66 0)
+		(layer "Dwgs.User")
+		(uuid "e921ceb8-f303-46fb-b6cd-757ce28f0b10")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Impedance Control: "
+		(at 207.264281 75.531 0)
+		(layer "Dwgs.User")
+		(uuid "f60ef9c8-41ba-4eb0-9244-edcc56c53263")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
 		)
 	)
 	(via
@@ -16429,6 +16727,22 @@
 	(group ""
 		(uuid "753a5285-14d3-4f82-ae1f-389e2ed54ea4")
 		(members "e1d353a0-1787-4ec1-b2bd-290d3c4a1614")
+	)
+	(group "group-boardCharacteristics"
+		(uuid "fa0c380b-1993-4e67-be37-fd028c96a280")
+		(members "04250757-1c50-4b0b-a320-cb1d2a26efe3" "090f18f2-4ad3-4734-8db2-8f763b15595f"
+			"139a0d37-b09e-4a74-83ee-a09b769804b1" "2d08e1d7-4bfd-4765-b3d1-15a987d3a441"
+			"2f241b08-3a86-4b41-932c-480ae9b1d21d" "35d6dfaf-c93a-43df-9d7c-21c8b8b8d994"
+			"3bc11a21-7cbe-416a-9ae5-82cf71d4c1af" "46955ee9-66ff-408c-9493-b49697327e42"
+			"51e0047c-1471-4246-ab6d-c345440020bb" "54262cbe-ad26-4f8a-8ca1-ef42d908f77e"
+			"59b8a47c-9320-4393-be5d-329698dca1cd" "754c2e22-9492-4834-8dd4-11fad86b6372"
+			"789409c4-51d7-4743-a1bd-c41408bf6137" "7b4d498e-9f24-4d90-b49f-202c04d2c4a8"
+			"7bb9c8d5-a1e1-4f88-9586-7de84684a348" "8671a808-06f3-4471-a87c-f5ee58155573"
+			"917cfdb1-6b6f-4100-b365-7a0e0b020635" "9c11ddb6-f1c0-4665-9373-e16371fe9afc"
+			"a55df721-745e-4d1e-9736-c8f7d07ba2fa" "b44bde49-66b8-4fb0-a9bd-4f7d494d961a"
+			"b4613f25-5375-46ec-8403-1c1085d90824" "e921ceb8-f303-46fb-b6cd-757ce28f0b10"
+			"f60ef9c8-41ba-4eb0-9244-edcc56c53263"
+		)
 	)
 	(embedded_fonts no)
 )
