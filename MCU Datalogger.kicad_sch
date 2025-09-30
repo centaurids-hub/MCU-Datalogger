@@ -4187,6 +4187,16 @@
 		)
 		(uuid "f0b071e6-7529-4917-821d-030e0dd830a6")
 	)
+	(label "Abc123"
+		(at 173.99 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f64f2b55-b368-4cdf-9a38-d2e43f338ba0")
+	)
 	(label "SDA"
 		(at 123.19 152.4 180)
 		(effects
