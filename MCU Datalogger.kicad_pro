@@ -606,7 +606,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "C:\\Users\\Administrator\\OneDrive\\Documents\\COMPUTER AIDED DRAFTING\\MCU Datalogger",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -620,11 +620,11 @@
   },
   "sheets": [
     [
-      "932db461-6a18-4fd3-9410-5532f4da7c4e",
+      "f90e184b-6b1b-49e5-a691-1a136a65a528",
       "Root"
     ],
     [
-      "8f8d5f57-a6da-4e38-bd48-3b319590011f",
+      "9a37343f-c3ba-4236-a750-884b4c64008b",
       "Connectors"
     ]
   ],

@@ -1289,26 +1289,26 @@
 			)
 		)
 		(pin "5"
-			(uuid "5ca78870-01f1-4617-854e-b78f919ca8a1")
+			(uuid "ca22037c-d55d-4e68-965b-90412774b263")
 		)
 		(pin "4"
-			(uuid "8581abf1-f6ab-4771-9c3d-0f2d2e26c75e")
+			(uuid "18df5275-424a-4f39-891e-cf5653e54997")
 		)
 		(pin "6"
-			(uuid "7d18d628-7040-4b58-b089-c7b9ad19a12c")
+			(uuid "60211f7e-ce93-427c-b13f-0ff5e6fb5428")
 		)
 		(pin "3"
-			(uuid "7ba190b2-a60c-4b32-9230-5adfa57c51cc")
+			(uuid "2d2077c7-ac10-4f79-90f3-a1b69b0bfed5")
 		)
 		(pin "2"
-			(uuid "677e7954-1694-4688-93e2-44b954aa784c")
+			(uuid "8b0e893c-0823-4b08-a211-48acf843da16")
 		)
 		(pin "1"
-			(uuid "e444a3eb-5db5-4c5e-96ed-a53e9c42846c")
+			(uuid "a0bfc4fe-0c6e-4312-bb10-0046107e01d8")
 		)
 		(instances
 			(project "MCU Datalogger"
-				(path "/b20cc1cf-f908-4bf4-a174-9a54305711b0/c0aadd9e-ea9c-43ba-a088-365824e444cf"
+				(path "/f90e184b-6b1b-49e5-a691-1a136a65a528/9a37343f-c3ba-4236-a750-884b4c64008b"
 					(reference "J4")
 					(unit 1)
 				)
@@ -1376,20 +1376,20 @@
 			)
 		)
 		(pin "2"
-			(uuid "5ff294c9-d24e-4a31-8d19-fca57779edc7")
+			(uuid "2696e67d-3a45-4e88-ac9d-3195af53802b")
 		)
 		(pin "3"
-			(uuid "96ecd68f-6b69-4a53-8763-c4a68be17676")
+			(uuid "13385578-8a91-45ad-83e8-517f93ba53d0")
 		)
 		(pin "4"
-			(uuid "d998ad9d-a4c1-44be-a637-799f9c594305")
+			(uuid "adc40bb5-bbb2-4353-a4b7-046160fcb6ef")
 		)
 		(pin "1"
-			(uuid "5307c86f-bc09-4b03-b649-cfd9c58d073e")
+			(uuid "01374851-a6dc-4fb5-b7d4-32f01a0593a4")
 		)
 		(instances
 			(project "MCU Datalogger"
-				(path "/b20cc1cf-f908-4bf4-a174-9a54305711b0/c0aadd9e-ea9c-43ba-a088-365824e444cf"
+				(path "/f90e184b-6b1b-49e5-a691-1a136a65a528/9a37343f-c3ba-4236-a750-884b4c64008b"
 					(reference "J1")
 					(unit 1)
 				)
@@ -1457,20 +1457,20 @@
 			)
 		)
 		(pin "4"
-			(uuid "f80f815d-95a0-4a3f-8548-1f78f8254121")
+			(uuid "e24e7006-66a8-4c9c-abef-286c9289acc0")
 		)
 		(pin "1"
-			(uuid "d84db20a-b05d-47f7-90f0-5377938dfbec")
+			(uuid "7d04b911-b9b3-4086-a3f7-40e92de0adde")
 		)
 		(pin "3"
-			(uuid "6014d0e6-310b-41f1-8dab-7b47e5637cb2")
+			(uuid "96e1852e-4b38-40d5-99c3-d9983ca633d0")
 		)
 		(pin "2"
-			(uuid "0dbef3fe-e9f6-4b89-a4bf-7f84ecef9abf")
+			(uuid "3851c885-6b03-41cb-b5b1-09db0f614868")
 		)
 		(instances
 			(project "MCU Datalogger"
-				(path "/b20cc1cf-f908-4bf4-a174-9a54305711b0/c0aadd9e-ea9c-43ba-a088-365824e444cf"
+				(path "/f90e184b-6b1b-49e5-a691-1a136a65a528/9a37343f-c3ba-4236-a750-884b4c64008b"
 					(reference "J3")
 					(unit 1)
 				)
@@ -1538,35 +1538,35 @@
 			)
 		)
 		(pin "6"
-			(uuid "e13e45d6-3d48-405b-bc64-d3a085c4cf98")
+			(uuid "187d1be2-e469-4cd6-89ed-28ad59c56a0d")
 		)
 		(pin "3"
-			(uuid "e1d63f2f-83b2-412b-96ea-b4c2dfc37838")
+			(uuid "28760f8f-620b-4dc6-a665-1722879089df")
 		)
 		(pin "4"
-			(uuid "9f5d3d46-3c59-4a78-aaba-a84aaba43520")
+			(uuid "ae9cb97b-8437-46d6-8413-cbdd637702ff")
 		)
 		(pin "7"
-			(uuid "5bcb3e54-7192-4012-8a64-54f19f2af249")
+			(uuid "22b4c405-3623-4223-b000-fc7263ca0d7b")
 		)
 		(pin "2"
-			(uuid "cf65d322-a013-4d85-b371-2f5e27203230")
+			(uuid "c0b24cc3-aa77-4cc9-a87f-6c2057a9b9c2")
 		)
 		(pin "1"
-			(uuid "f026540b-6fd6-4b68-a2f7-b658906d37d5")
+			(uuid "c2c08b00-ac3d-4125-9930-55727de0c19a")
 		)
 		(pin "9"
-			(uuid "1991fede-b201-41bc-a93e-9a03e0b919cb")
+			(uuid "c27775fb-3c42-46e7-83aa-cc2b2e185dcf")
 		)
 		(pin "8"
-			(uuid "5c3738e7-487c-4bd2-bbf3-98fdc249a280")
+			(uuid "13b3f385-f56a-44a8-b779-978626de2c63")
 		)
 		(pin "5"
-			(uuid "61d7dd4a-82c0-40af-87fc-2bdcec787111")
+			(uuid "1bb0b289-fdec-454c-b538-6d060c1d9120")
 		)
 		(instances
 			(project "MCU Datalogger"
-				(path "/b20cc1cf-f908-4bf4-a174-9a54305711b0/c0aadd9e-ea9c-43ba-a088-365824e444cf"
+				(path "/f90e184b-6b1b-49e5-a691-1a136a65a528/9a37343f-c3ba-4236-a750-884b4c64008b"
 					(reference "J2")
 					(unit 1)
 				)
